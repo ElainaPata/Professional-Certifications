@@ -1,6 +1,6 @@
 # Professional Certifications
 
-This repository contains verified professional certifications demonstrating foundational skills in data modeling, data preparation, and analytics.
+This repository contains professional certifications earned through my graduate program at Western Governors University, demonstrating foundational skills in data modeling, data preparation, and analytics.
 
 ## Certifications Included
 - Advanced Data Modeling
